@@ -17,6 +17,7 @@ backend must have unit tests along with right architecture. * Please use best pr
                                                   Jewelry Price Estimation – Project Features
 
 ⚙️ Architecture & Technologies
+
 ✅ .NET 8 / ASP.NET Core Web API
 
 ✅ CQRS Pattern (MediatR) for separation of concerns
@@ -37,12 +38,16 @@ backend must have unit tests along with right architecture. * Please use best pr
 
 ✅ Graceful error handling (500, 404, validation)
 
+
 🧪 Unit Test Coverage
+
+
 ✔ CreateJewelryCommandHandler tests 
 
 ✔ GetFinalPriceQueryHandler tests
 
 ✔ API controller tests 
+
 
 ✅ Valid POST & GET requests
 
@@ -68,7 +73,10 @@ JewelryEstimation/
 
 
 🛠 Example Swagger Payloads
+
+
 ✅ Create Jewelry
+
 POST /api/jewelry
 {
   "goldPrice": 5500,

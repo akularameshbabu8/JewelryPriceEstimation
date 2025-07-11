@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FF4cizcAUIqLaLftkLGal+q/p+oRSs5sMLLnym7cwaU=",
+  "Source": "JewelryEstimation.Api",
+  "BasePath": "_content/JewelryEstimation.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

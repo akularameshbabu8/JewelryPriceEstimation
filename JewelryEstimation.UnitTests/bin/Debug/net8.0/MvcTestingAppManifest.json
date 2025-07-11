@@ -1,0 +1,6 @@
+{
+  "JewelryEstimation.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Code\\JewelryEstimation\\JewelryEstimation.Api",
+  "JewelryEstimation.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Code\\JewelryEstimation\\JewelryEstimation.Application",
+  "JewelryEstimation.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Code\\JewelryEstimation\\JewelryEstimation.Domain",
+  "JewelryEstimation.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Code\\JewelryEstimation\\JewelryEstimation.Infrastructure"
+}

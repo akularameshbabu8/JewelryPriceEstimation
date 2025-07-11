@@ -56,9 +56,13 @@ backend must have unit tests along with right architecture. * Please use best pr
 
 JewelryEstimation/
 ├── Api/               → ASP.NET Core Web API layer
+
 ├── Application/       → CQRS Commands, Queries, DTOs
+
 ├── Domain/            → Core domain entities (Jewelry)
+
 ├── Infrastructure/    → EF Core, Migrations, DbContext
+
 ├── UnitTests/         → xUnit tests for logic and APIs
 
 

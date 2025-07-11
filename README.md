@@ -13,7 +13,7 @@ Expectations:
 
 backend must have unit tests along with right architecture. * Please use best practices everywhere.
 
-==============================================
+
                                                   Jewelry Price Estimation – Project Features
 
 ⚙️ Architecture & Technologies

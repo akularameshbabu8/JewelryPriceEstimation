@@ -55,6 +55,7 @@ backend must have unit tests along with right architecture. * Please use best pr
 📁 Project Structure
 
 JewelryEstimation/
+
 ├── Api/               → ASP.NET Core Web API layer
 
 ├── Application/       → CQRS Commands, Queries, DTOs

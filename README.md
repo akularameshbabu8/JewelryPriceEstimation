@@ -14,7 +14,7 @@ Expectations:
 backend must have unit tests along with right architecture. * Please use best practices everywhere.
 
 =================================================================================================================================================
-              Jewelry Price Estimation – Project Features
+                                                  Jewelry Price Estimation – Project Features
 
 ⚙️ Architecture & Technologies
 ✅ .NET 8 / ASP.NET Core Web API
@@ -53,9 +53,7 @@ backend must have unit tests along with right architecture. * Please use best pr
 ✅ 500 Internal Server Error
 
 📁 Project Structure
-pgsql
-Copy
-Edit
+
 JewelryEstimation/
 ├── Api/               → ASP.NET Core Web API layer
 ├── Application/       → CQRS Commands, Queries, DTOs
@@ -74,7 +72,5 @@ POST /api/jewelry
 }
 
 ✅ Get Final Price
-swift
-Copy
-Edit
+
 GET /api/jewelry/1/final-price

@@ -53,8 +53,6 @@ backend must have unit tests along with right architecture. * Please use best pr
 
 ✅ 400 Bad Request (invalid payload)
 
-✅ 404 Not Found (non-existent item)
-
 ✅ 500 Internal Server Error
 
 📁 Project Structure

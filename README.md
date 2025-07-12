@@ -24,19 +24,15 @@ backend must have unit tests along with right architecture. * Please use best pr
 
 ✅ Entity Framework Core with SQL Server
 
-✅ FluentValidation for input validation
-
 ✅ xUnit & Moq for unit testing
 
 ✅ Middleware for global exception handling
 
 ✅ Swagger/OpenAPI support for API testing
-
-✅ ILogger for structured logging
-
+.
 ✅ Global Model Validation (400 errors)
 
-✅ Graceful error handling (500, 404, validation)
+✅ Graceful error handling (500)
 
 
 🧪 Unit Test Coverage

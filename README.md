@@ -70,6 +70,7 @@ JewelryEstimation/
 ├── UnitTests/         → xUnit tests for logic and APIs
 
 
+
 🛠️ Entity Framework Core – Migrations & Database Setup
 
 To apply Entity Framework Core migrations and set up the SQL Server database, follow these steps:

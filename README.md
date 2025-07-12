@@ -29,6 +29,7 @@ backend must have unit tests along with right architecture. * Please use best pr
 ✅ Middleware for global exception handling
 
 ✅ Swagger/OpenAPI support for API testing
+
 .
 ✅ Global Model Validation (400 errors)
 

@@ -70,6 +70,23 @@ JewelryEstimation/
 ├── UnitTests/         → xUnit tests for logic and APIs
 
 
+🛠️ Entity Framework Core – Migrations & Database Setup
+
+To apply Entity Framework Core migrations and set up the SQL Server database, follow these steps:
+
+✅ 1. Add a Migration
+
+dotnet ef migrations add InitialCreate --project JewelryEstimation.Infrastructure --startup-project JewelryEstimation.Api
+
+--project: Points to the project that contains DbContext (Infrastructure layer).
+--startup-project: Points to the startup project (API layer).
+
+✅ 2. Apply Migration / Update Database
+
+dotnet ef database update --project JewelryEstimation.Infrastructure --startup-project JewelryEstimation.Api
+
+This will create the required database tables in your SQL Server instance.
+
 🛠 Example Swagger Payloads
 
 
